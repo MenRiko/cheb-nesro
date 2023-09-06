@@ -1,1 +1,201 @@
+{
+   "AdsManager":{
+      "adNetwork" :"admob",
+      "interstitial_admob":"ca-app-pub-9322101337669156/8016236605",
+      "banner_admob":"ca-app-pub-9322101337669156/9272961035",
+      "native_admob":"ca-app-pub-9322101337669156/2118571573",
+
+      "interstitial_fan":"IMG_16_9_APP_INSTALL#465986095404427_474869491182754",
+      "banner_fan":"IMG_16_9_APP_INSTALL#465986095404427_474834121186291",
+      "native_fan":"IMG_16_9_APP_INSTALL#465986095404427_474850511184652"
+   },
+   "Songs" :[
+      {
+         "song_name":"01. Hommage",
+         "artist":"Cheb Nasro",
+         "song_link":"https://www.nozika.co/down.php?s_id=34859",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+      {
+         "song_name":"02. Lemmima",
+         "artist":"Cheb Nasro",
+         "song_link":"https://www.nozika.co/down.php?s_id=35284",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+      {
+         "song_name":"03. Hasni",
+         "artist":"Cheb Nasro",
+         "song_link":"https://www.nozika.co/down.php?s_id=35285",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"04. El Bareh",
+         "artist":"Cheb Nasro",
+         "song_link":"https://www.nozika.co/down.php?s_id=35286",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"05. Wahren",
+         "artist":"Cheb Nasro",
+         "song_link":"https://www.nozika.co/down.php?s_id=35287",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"06. Ntiya Ma Vie",
+         "artist":"Cheb Nasro",
+         "song_link":"https://www.nozika.co/down.php?s_id=35288",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"07. Allh 3alem",
+         "artist":"Cheb Nasro",
+         "song_link":"https://www.nozika.co/down.php?s_id=35289",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"08. Adam",
+         "artist":"Cheb Nasro",
+         "song_link":"https://www.nozika.co/down.php?s_id=35283",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"09. Achkak Galbi Dak Lhasas",
+         "artist":"Cheb Nasro",
+         "song_link":"https://www.nozika.co/down.php?s_id=40113",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"10. Hata Galbi",
+         "artist":"Cheb Nasro",
+         "song_link":"https://www.nozika.co/down.php?s_id=40113",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"11. La La Machi Kima Hak",
+         "artist":"Cheb Nasro",
+         "song_link":"https://www.nozika.co/down.php?s_id=43903",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"12. Nergoud Ala Ouadniya",
+         "artist":"Cheb Nasro",
+         "song_link":"https://www.nozika.co/down.php?s_id=43904",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"13. Ntiya Ma Vie",
+         "artist":"Cheb Nasro",
+         "song_link":"https://www.nozika.co/down.php?s_id=43905",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"14. Li Bini Ou Binha",
+         "artist":"Cheb Nasro",
+         "song_link":"https://www.nozika.co/down.php?s_id=43906",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"15. Mabkach Laman Fi Bahr Lhob",
+         "artist":"Cheb Nasro",
+         "song_link":"https://www.nozika.co/down.php?s_id=43907",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"16. Goli",
+         "artist":"Cheb Nasro",
+         "song_link":"https://www.nozika.co/down.php?s_id=43908",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"17. Si Fini",
+         "artist":"Cheb Nasro",
+         "song_link":"https://www.nozika.co/down.php?s_id=43909",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"18. Al Hob",
+         "artist":"Cheb Nasro",
+         "song_link":"https://www.nozika.co/down.php?s_id=43911",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"19. Chouf Halek",
+         "artist":"Cheb Nasro",
+         "song_link":"https://www.nozika.co/down.php?s_id=43914",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"20. Darou Shour",
+         "artist":"Cheb Nasro",
+         "song_link":"https://www.nozika.co/down.php?s_id=43915",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"21. Ent Sbaby",
+         "artist":"Cheb Nasro",
+         "song_link":"https://www.nozika.co/down.php?s_id=43916",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"22. Goulili Goulili",
+         "artist":"Cheb Nasro",
+         "song_link":"https://www.nozika.co/down.php?s_id=43917",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"23. Gualb Hdid",
+         "artist":"Cheb Nasro",
+         "song_link":"https://www.nozika.co/down.php?s_id=43918",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"24. Ha Hay 3lik",
+         "artist":"Cheb Nasro",
+         "song_link":"https://www.nozika.co/down.php?s_id=43919",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"25. Hasn Ayni",
+         "artist":"Cheb Nasro",
+         "song_link":"https://www.nozika.co/down.php?s_id=43920",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"26. Intia Mhania",
+         "artist":"Cheb Nasro",
+         "song_link":"https://www.nozika.co/down.php?s_id=43921",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"27. Kikounte",
+         "artist":"Cheb Nasro",
+         "song_link":"https://www.nozika.co/down.php?s_id=43922",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"28. Kouni Fahma Hali",
+         "artist":"Cheb Nasro",
+         "song_link":"https://www.nozika.co/down.php?s_id=43923",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"29. Anti Houbak",
+         "artist":"Cheb Nasro",
+         "song_link":"https://www.nozika.co/down.php?s_id=50180",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"30. Lahsabti Rouhak Ntiya Chkoun",
+         "artist":"Cheb Nasro",
+         "song_link":"https://www.nozika.co/down.php?s_id=50516",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Tastahli",
+         "artist":"Cheb Nasro",
+         "song_link":"https://www.nozika.co/down.php?s_id=50535",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      }
+   ]
+}
 
